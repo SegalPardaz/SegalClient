@@ -13,5 +13,5 @@ import { panelRoutes } from './routes/routes.routing';
     RouterModule.forRoot(panelRoutes)
   ],
   declarations: [PanelComponent]
-})
+}) 
 export class PanelModule { }
